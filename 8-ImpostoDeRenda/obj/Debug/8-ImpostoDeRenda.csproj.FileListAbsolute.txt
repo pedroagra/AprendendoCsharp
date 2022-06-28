@@ -1,0 +1,7 @@
+C:\Users\Pedro Agra\source\repos\AprendendoCsharp\8-ImpostoDeRenda\bin\Debug\8-ImpostoDeRenda.exe.config
+C:\Users\Pedro Agra\source\repos\AprendendoCsharp\8-ImpostoDeRenda\bin\Debug\8-ImpostoDeRenda.exe
+C:\Users\Pedro Agra\source\repos\AprendendoCsharp\8-ImpostoDeRenda\bin\Debug\8-ImpostoDeRenda.pdb
+C:\Users\Pedro Agra\source\repos\AprendendoCsharp\8-ImpostoDeRenda\obj\Debug\8-ImpostoDeRenda.csproj.AssemblyReference.cache
+C:\Users\Pedro Agra\source\repos\AprendendoCsharp\8-ImpostoDeRenda\obj\Debug\8-ImpostoDeRenda.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Agra\source\repos\AprendendoCsharp\8-ImpostoDeRenda\obj\Debug\8-ImpostoDeRenda.exe
+C:\Users\Pedro Agra\source\repos\AprendendoCsharp\8-ImpostoDeRenda\obj\Debug\8-ImpostoDeRenda.pdb
