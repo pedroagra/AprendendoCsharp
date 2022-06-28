@@ -1,0 +1,7 @@
+C:\Users\Pedro Agra\source\repos\AprendendoCsharp\8-ComandoSwitch\bin\Debug\8-ComandoSwitch.exe.config
+C:\Users\Pedro Agra\source\repos\AprendendoCsharp\8-ComandoSwitch\bin\Debug\8-ComandoSwitch.exe
+C:\Users\Pedro Agra\source\repos\AprendendoCsharp\8-ComandoSwitch\bin\Debug\8-ComandoSwitch.pdb
+C:\Users\Pedro Agra\source\repos\AprendendoCsharp\8-ComandoSwitch\obj\Debug\8-ComandoSwitch.csproj.AssemblyReference.cache
+C:\Users\Pedro Agra\source\repos\AprendendoCsharp\8-ComandoSwitch\obj\Debug\8-ComandoSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Agra\source\repos\AprendendoCsharp\8-ComandoSwitch\obj\Debug\8-ComandoSwitch.exe
+C:\Users\Pedro Agra\source\repos\AprendendoCsharp\8-ComandoSwitch\obj\Debug\8-ComandoSwitch.pdb
