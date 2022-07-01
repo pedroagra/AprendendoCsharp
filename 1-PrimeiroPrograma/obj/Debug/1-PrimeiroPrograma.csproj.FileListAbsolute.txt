@@ -1,0 +1,7 @@
+C:\Users\Pedro Agra\source\repos\AprendendoCSharp\1-PrimeiroPrograma\bin\Debug\1-PrimeiroPrograma.exe.config
+C:\Users\Pedro Agra\source\repos\AprendendoCSharp\1-PrimeiroPrograma\bin\Debug\1-PrimeiroPrograma.exe
+C:\Users\Pedro Agra\source\repos\AprendendoCSharp\1-PrimeiroPrograma\bin\Debug\1-PrimeiroPrograma.pdb
+C:\Users\Pedro Agra\source\repos\AprendendoCSharp\1-PrimeiroPrograma\obj\Debug\1-PrimeiroPrograma.csproj.AssemblyReference.cache
+C:\Users\Pedro Agra\source\repos\AprendendoCSharp\1-PrimeiroPrograma\obj\Debug\1-PrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Agra\source\repos\AprendendoCSharp\1-PrimeiroPrograma\obj\Debug\1-PrimeiroPrograma.exe
+C:\Users\Pedro Agra\source\repos\AprendendoCSharp\1-PrimeiroPrograma\obj\Debug\1-PrimeiroPrograma.pdb
