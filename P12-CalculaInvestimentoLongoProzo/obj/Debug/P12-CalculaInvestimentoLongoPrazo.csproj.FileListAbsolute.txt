@@ -1,0 +1,7 @@
+C:\Users\Pedro Agra\source\repos\AprendendoCsharp\P12-CalculaInvestimentoLongoProzo\bin\Debug\P12-CalculaInvestimentoLongoProzo.exe.config
+C:\Users\Pedro Agra\source\repos\AprendendoCsharp\P12-CalculaInvestimentoLongoProzo\bin\Debug\P12-CalculaInvestimentoLongoProzo.exe
+C:\Users\Pedro Agra\source\repos\AprendendoCsharp\P12-CalculaInvestimentoLongoProzo\bin\Debug\P12-CalculaInvestimentoLongoProzo.pdb
+C:\Users\Pedro Agra\source\repos\AprendendoCsharp\P12-CalculaInvestimentoLongoProzo\obj\Debug\P12-CalculaInvestimentoLongoPrazo.csproj.AssemblyReference.cache
+C:\Users\Pedro Agra\source\repos\AprendendoCsharp\P12-CalculaInvestimentoLongoProzo\obj\Debug\P12-CalculaInvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Agra\source\repos\AprendendoCsharp\P12-CalculaInvestimentoLongoProzo\obj\Debug\P12-CalculaInvestimentoLongoProzo.exe
+C:\Users\Pedro Agra\source\repos\AprendendoCsharp\P12-CalculaInvestimentoLongoProzo\obj\Debug\P12-CalculaInvestimentoLongoProzo.pdb
